@@ -1,0 +1,1 @@
+Use this plugin as a starting point for writing a product plugin to integrate with jojo_cart.
